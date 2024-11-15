@@ -31,3 +31,14 @@ Bem-vindo ao meu perfil no GitHub! **Nequesi** é um projeto dedicado a **ensina
 ## ⚡ Curiosidade:
 - Adoro explorar novas linguagens de programação e frameworks para ensinar de forma mais prática e acessível.
 
+</div>
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/nequesi/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
